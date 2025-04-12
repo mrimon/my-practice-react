@@ -38,7 +38,7 @@ const Navbar = () => {
                 {
                     open? <X className='md:hidden'></X>: <Menu className='md:hidden'></Menu>
                 }
-                <ul className={`md:hidden rounded-sm absolute bg-[lightgray] duration-1000 ${open? 'top-10': '-top-32'} text-black`}>
+                <ul className={`md:hidden rounded-sm absolute bg-gradient-to-br from-red-400 via-amber-400 to-amber-800 duration-1000 ${open? 'top-10': '-top-32'} text-black`}>
                     {
                         links
                     }

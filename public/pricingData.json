@@ -7,9 +7,7 @@
       "features": [
         "Daily bodyweight workout plans",
         "Basic nutrition tips",
-        "Community support",
-        "1 fitness goal tracking",
-        "Progress tracking (basic)"
+        "Community support"
       ]
     },
     {
@@ -21,10 +19,8 @@
         "Full workout library access",
         "Custom workout scheduling",
         "Beginner diet plans",
-        "Progress photos & measurements",
-        "Set up to 3 fitness goals",
-        "Weekly performance reports",
-        "Coach messaging (limited)"
+        "Progress photos & measurements"
+        
       ]
     },
     {
@@ -37,10 +33,7 @@
         "Personalized workout & meal plans",
         "1-on-1 online coach consultation",
         "Advanced analytics dashboard",
-        "Daily motivational content",
-        "Habit tracking",
-        "Goal-based reminders",
-        "Voice-guided workouts"
+        "Daily motivational content"
       ]
     },
     {
@@ -54,10 +47,7 @@
         "24/7 direct coach support",
         "Custom supplement suggestions",
         "AI body scan for full progress tracking",
-        "Workout sync with friends",
-        "Exclusive content & challenges",
-        "Unlimited goal tracking",
-        "In-depth habit coaching"
+        "Workout sync with friends"
       ]
     }
   ]
