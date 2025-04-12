@@ -28,6 +28,7 @@
       "name": "Pro",
       "price": "$29",
       "description": "Designed for focused users who want expert guidance and results.",
+      "popular": true,
       "features": [
         "All Standard features",
         "Personalized workout & meal plans",
