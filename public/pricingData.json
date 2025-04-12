@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": "$0",
+      "description": "A starter plan for beginners just getting into fitness.",
+      "features": [
+        "Daily bodyweight workout plans",
+        "Basic nutrition tips",
+        "Community support",
+        "1 fitness goal tracking",
+        "Progress tracking (basic)"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": "$9",
+      "description": "Perfect for those looking to stay consistent and track progress.",
+      "features": [
+        "Full workout library access",
+        "Custom workout scheduling",
+        "Beginner diet plans",
+        "Progress photos & measurements",
+        "Set up to 3 fitness goals",
+        "Weekly performance reports",
+        "Coach messaging (limited)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pro",
+      "price": "$29",
+      "description": "Designed for focused users who want expert guidance and results.",
+      "features": [
+        "All Standard features",
+        "Personalized workout & meal plans",
+        "1-on-1 online coach consultation",
+        "Advanced analytics dashboard",
+        "Daily motivational content",
+        "Habit tracking",
+        "Goal-based reminders",
+        "Voice-guided workouts"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Elite",
+      "price": "$59",
+      "description": "Premium plan for serious athletes and transformation seekers.",
+      "features": [
+        "All Pro features",
+        "Live virtual training sessions",
+        "24/7 direct coach support",
+        "Custom supplement suggestions",
+        "AI body scan for full progress tracking",
+        "Workout sync with friends",
+        "Exclusive content & challenges",
+        "Unlimited goal tracking",
+        "In-depth habit coaching"
+      ]
+    }
+  ]
+  
