@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "marks": {
+        "Math": 85,
+        "English": 78,
+        "Science": 92,
+        "Chemistry": 88,
+        "Physics": 90
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "marks": {
+        "Math": 74,
+        "English": 81,
+        "Science": 69,
+        "Chemistry": 70,
+        "Physics": 75
+      }
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "marks": {
+        "Math": 90,
+        "English": 88,
+        "Science": 94,
+        "Chemistry": 91,
+        "Physics": 89
+      }
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "marks": {
+        "Math": 65,
+        "English": 70,
+        "Science": 72,
+        "Chemistry": 68,
+        "Physics": 73
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ethan",
+      "marks": {
+        "Math": 80,
+        "English": 85,
+        "Science": 78,
+        "Chemistry": 82,
+        "Physics": 79
+      }
+    }
+  ]
+  
