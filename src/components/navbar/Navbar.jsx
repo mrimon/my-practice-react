@@ -29,11 +29,11 @@ const navItems = [
         path: "/contact"
     }
 ];
-const links = navItems.map(route => <Link route={route}></Link>);
+const links = navItems.map(route => <Link key={route.id} route={route}></Link>);
 const Navbar = () => {
     const [open, setOpen] = useState(false)
     return (
-        <nav className='flex justify-between mx-5 md:mx-10 my-4'>
+        <nav className='flex justify-between my-4'>
             <span className='md:hidden' onClick={() => setOpen(!open)}>
                 {
                     open? <X className='md:hidden'></X>: <Menu className='md:hidden'></Menu>
